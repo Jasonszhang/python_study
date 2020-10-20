@@ -15,3 +15,5 @@ age = 18
 weight = 60.5
 print("今年是%s年，我今年%d岁,体重%.1f斤" %(year,age,weight))
 print(f"今年是{year}年，我今年{age}岁,体重{weight}斤")
+
+print("你好",end="hhhh") #默认为\n
